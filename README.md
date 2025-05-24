@@ -7,4 +7,5 @@ And this text will produce some conflict.
 Because this text is written in web-ide on GitHub.
 
 Both of them produced conflict!!!
-XXX
+
+Wow! This text from another branch!
